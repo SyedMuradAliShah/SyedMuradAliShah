@@ -34,3 +34,14 @@ Today, I wear the badge of a Full-stack Web Developer with pride. With PHP at my
 ### 💌 **Let's Connect**
 
 🤝 Always looking for exciting projects and collaborations.  
+
+
+
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuradAliShah&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=SyedMuradAliShah&&style=flat-square" />
+</div>
