@@ -4,15 +4,14 @@
 
 ### 🚀 **My Journey**
 
-📅 `2010` | 🔐 **Web Security Expert**  
-I begin on my journey in `2010` as a **Web Security Expert**. Within the confines of secondary school, I began safeguarding digital realms, solidifying my reputation by securing over a thousand websites.
+📅 `2015 & Beyond` | 🖥️ **Full-stack Web Developer**  
+Today, I wear the badge of a Full-stack Web Developer with pride. With PHP at my core, I've embraced frameworks like CodeIgniter & Laravel. Each line of code I write reflects my passion and commitment.
 
 📅 `2013` | 🎨 **WordPress & SEO**  
 I started creating with WordPress and also explored the world of SEO. Due to security concerns with WordPress, I moved towards custom web development.
 
-📅 `2015 & Beyond` | 🖥️ **Full-stack Web Developer**  
-Today, I wear the badge of a Full-stack Web Developer with pride. With PHP at my core, I've embraced frameworks like CodeIgniter & Laravel. Each line of code I write reflects my passion and commitment.
-
+📅 `2010` | 🔐 **Web Security Expert**  
+I begin on my journey in `2010` as a **Web Security Expert**. Within the confines of secondary school, I began safeguarding digital realms, solidifying my reputation by securing over a thousand websites.
 ---
 
 ### 🛠 **Tech Stack**
@@ -26,8 +25,8 @@ Today, I wear the badge of a Full-stack Web Developer with pride. With PHP at my
 
 ### 🌐 **Business Ventures**
 
-📅 `2019` | 🌍 [Web Flare Host](https://www.webflarehost.com) - A platform for domain reselling & hosting.  
 📅 `2022` | 💼 [Software Flare](https://www.softwareflare.com) - My very own software house, a significant step forward.
+📅 `2019` | 🌍 [Web Flare Host](https://www.webflarehost.com) - A platform for domain reselling & hosting.  
 
 ---
 
