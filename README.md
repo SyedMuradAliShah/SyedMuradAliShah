@@ -12,7 +12,7 @@ I started creating with WordPress and also explored the world of SEO. Due to sec
 
 📅 `2010` | 🔐 **Web Security Expert**  
 I begin on my journey in `2010` as a **Web Security Expert**. Within the confines of secondary school, I began safeguarding digital realms, solidifying my reputation by securing over a thousand websites.
----
+
 
 ### 🛠 **Tech Stack**
 
