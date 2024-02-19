@@ -27,6 +27,7 @@ I begin on my journey in `2010` as a **Web Security Expert**. Within the confine
 ### 🌐 **Business Ventures**
 
 📅 `2022` | 💼 [Software Flare](https://www.softwareflare.com) - My very own software house, a significant step forward.
+
 📅 `2019` | 🌍 [Web Flare Host](https://www.webflarehost.com) - A platform for domain reselling & hosting.  
 
 ---
